@@ -42,6 +42,7 @@
         android:textAppearance="?android:textAppearanceMedium"
         android:text="@string/receita_bolo_desc"/>
     <Button
+        android:id="@+id/botaoBolo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:paddingLeft="16dp"
@@ -81,6 +82,7 @@
             android:textAppearance="?android:textAppearanceMedium"
             android:text="@string/receita_torta_desc"/>
         <Button
+            android:id="@+id/botaoTorta"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:paddingLeft="16dp"
@@ -119,6 +121,7 @@
             android:textAppearance="?android:textAppearanceMedium"
             android:text="@string/receita_cookie_desc"/>
         <Button
+            android:id="@+id/botaoCookie"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:paddingLeft="16dp"
@@ -157,6 +160,7 @@
             android:textAppearance="?android:textAppearanceMedium"
             android:text="@string/receita_sorvete_desc"/>
         <Button
+            android:id="@+id/botaoSorvete"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:paddingLeft="16dp"
@@ -166,7 +170,6 @@
             android:text="@string/botao_ver_receita"/>
 
     </LinearLayout>
-
 
 </LinearLayout>
 </ScrollView>
