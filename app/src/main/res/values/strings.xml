@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Receitas</string>
+    <string name="receita_de_bolo_titulo">Receita de Bolo</string>
+    <string name="receita_de_bolo_desc">Receita de Bolo de banana com alface</string>
+    <string name="btn_ver_receita">Ver Receita</string>
+    <string name="receita_de_torta_titulo">Receita de Torta</string>
+    <string name="receita_de_torta_desc">Receita de Torta de banana com alface</string>
+    <string name="receita_de_cookie_titulo">Receita de Cookie</string>
+    <string name="receita_de_cookie_desc">Receita de Cookie de banana com alface</string>
+    <string name="receita_de_sorvete_titulo">Receita de Sorvete</string>
+    <string name="receita_de_sorvete_desc">Receita de Sorvete de banana com alface</string>
+    <string name="receita_bolo_conteudo">Conteúdo da receita...</string>
+    <string name="receita_de_cookie_conteudo">Conteudo da receita...</string>
+    <string name="sorvete_receita_conteudo">Conteudo Receita...</string>
+    <string name="torta_receita_conteudo">Conteudo da Receita...</string>
 </resources>

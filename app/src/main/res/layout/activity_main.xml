@@ -31,7 +31,7 @@
         android:paddingRight="16dp"
         android:paddingTop="16dp"
         android:textAppearance="?android:textAppearanceLarge"
-        android:text="Receita de Bolo"/>
+        android:text="@string/receita_de_bolo_titulo"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -39,7 +39,7 @@
         android:paddingRight="16dp"
         android:paddingTop="16dp"
         android:textAppearance="?android:textAppearanceMedium"
-        android:text="Receita de Bolo de banana com alface"/>
+        android:text="@string/receita_de_bolo_desc"/>
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -47,7 +47,7 @@
         android:paddingRight="16dp"
         android:paddingTop="16dp"
         style="@style/Widget.AppCompat.Button.Borderless"
-        android:text="Ver Receita"/>
+        android:text="@string/btn_ver_receita"/>
 
 </LinearLayout>
 
@@ -70,7 +70,7 @@
             android:paddingRight="16dp"
             android:paddingTop="16dp"
             android:textAppearance="?android:textAppearanceLarge"
-            android:text="Receita de Torta"/>
+            android:text="@string/receita_de_torta_titulo"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -78,7 +78,7 @@
             android:paddingRight="16dp"
             android:paddingTop="16dp"
             android:textAppearance="?android:textAppearanceMedium"
-            android:text="Receita de Torta de banana com alface"/>
+            android:text="@string/receita_de_torta_desc"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -86,7 +86,7 @@
             android:paddingRight="16dp"
             android:paddingTop="16dp"
             style="@style/Widget.AppCompat.Button.Borderless"
-            android:text="Ver Receita"/>
+            android:text="@string/btn_ver_receita"/>
 
     </LinearLayout>
     <LinearLayout
@@ -108,7 +108,7 @@
             android:paddingRight="16dp"
             android:paddingTop="16dp"
             android:textAppearance="?android:textAppearanceLarge"
-            android:text="Receita de Cookie"/>
+            android:text="@string/receita_de_cookie_titulo"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -116,7 +116,7 @@
             android:paddingRight="16dp"
             android:paddingTop="16dp"
             android:textAppearance="?android:textAppearanceMedium"
-            android:text="Receita de Cookie de banana com alface"/>
+            android:text="@string/receita_de_cookie_desc"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -124,7 +124,7 @@
             android:paddingRight="16dp"
             android:paddingTop="16dp"
             style="@style/Widget.AppCompat.Button.Borderless"
-            android:text="Ver Receita"/>
+            android:text="@string/btn_ver_receita"/>
 
     </LinearLayout>
     <LinearLayout
@@ -146,7 +146,7 @@
             android:paddingRight="16dp"
             android:paddingTop="16dp"
             android:textAppearance="?android:textAppearanceLarge"
-            android:text="Receita de Sorvete"/>
+            android:text="@string/receita_de_sorvete_titulo"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -154,7 +154,7 @@
             android:paddingRight="16dp"
             android:paddingTop="16dp"
             android:textAppearance="?android:textAppearanceMedium"
-            android:text="Receita de Sorvete de banana com alface"/>
+            android:text="@string/receita_de_sorvete_desc"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -162,7 +162,7 @@
             android:paddingRight="16dp"
             android:paddingTop="16dp"
             style="@style/Widget.AppCompat.Button.Borderless"
-            android:text="Ver Receita"/>
+            android:text="@string/btn_ver_receita"/>
 
     </LinearLayout>
 
