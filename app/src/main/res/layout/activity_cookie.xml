@@ -19,12 +19,12 @@
         android:layout_height="wrap_content"
         android:padding="16dp"
         android:background="@color/colorPrimaryDark"
-        android:text="@string/receita_de_cookie_titulo"
+        android:text="@string/receita_cookie_titulo"
         android:textAppearance="?android:textAppearanceLargeInverse"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/receita_de_cookie_conteudo"
+        android:text="@string/receita_cookie_conteudo"
         android:padding="16dp"
         android:textAppearance="?android:textAppearanceSmall"/>
 

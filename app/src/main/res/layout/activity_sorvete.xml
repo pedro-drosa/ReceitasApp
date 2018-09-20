@@ -19,12 +19,12 @@
         android:layout_height="wrap_content"
         android:background="@color/colorPrimaryDark"
         android:textAppearance="?android:textAppearanceLargeInverse"
-        android:text="@string/receita_de_sorvete_titulo"
+        android:text="@string/receita_sorvete_titulo"
         android:padding="16dp"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/sorvete_receita_conteudo"
+        android:text="@string/receita_sorvete_conteudo"
         android:textAppearance="?android:textAppearanceSmall"
         android:padding="16dp"/>
 </LinearLayout>

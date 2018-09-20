@@ -24,14 +24,15 @@
         android:layout_height="200dp"
         android:src="@drawable/bolo"
         android:scaleType="centerCrop"/>
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:paddingLeft="16dp"
         android:paddingRight="16dp"
         android:paddingTop="16dp"
-        android:textAppearance="?android:textAppearanceLarge"
-        android:text="@string/receita_de_bolo_titulo"/>
+        android:text="@string/receita_bolo_titulo"
+        android:textAppearance="?android:textAppearanceLarge" />
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -39,7 +40,7 @@
         android:paddingRight="16dp"
         android:paddingTop="16dp"
         android:textAppearance="?android:textAppearanceMedium"
-        android:text="@string/receita_de_bolo_desc"/>
+        android:text="@string/receita_bolo_desc"/>
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -47,7 +48,7 @@
         android:paddingRight="16dp"
         android:paddingTop="16dp"
         style="@style/Widget.AppCompat.Button.Borderless"
-        android:text="@string/btn_ver_receita"/>
+        android:text="@string/botao_ver_receita"/>
 
 </LinearLayout>
 
@@ -70,7 +71,7 @@
             android:paddingRight="16dp"
             android:paddingTop="16dp"
             android:textAppearance="?android:textAppearanceLarge"
-            android:text="@string/receita_de_torta_titulo"/>
+            android:text="@string/receita_torta_titulo"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -78,7 +79,7 @@
             android:paddingRight="16dp"
             android:paddingTop="16dp"
             android:textAppearance="?android:textAppearanceMedium"
-            android:text="@string/receita_de_torta_desc"/>
+            android:text="@string/receita_torta_desc"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -86,7 +87,7 @@
             android:paddingRight="16dp"
             android:paddingTop="16dp"
             style="@style/Widget.AppCompat.Button.Borderless"
-            android:text="@string/btn_ver_receita"/>
+            android:text="@string/botao_ver_receita"/>
 
     </LinearLayout>
     <LinearLayout
@@ -108,7 +109,7 @@
             android:paddingRight="16dp"
             android:paddingTop="16dp"
             android:textAppearance="?android:textAppearanceLarge"
-            android:text="@string/receita_de_cookie_titulo"/>
+            android:text="@string/receita_cookie_titulo"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -116,7 +117,7 @@
             android:paddingRight="16dp"
             android:paddingTop="16dp"
             android:textAppearance="?android:textAppearanceMedium"
-            android:text="@string/receita_de_cookie_desc"/>
+            android:text="@string/receita_cookie_desc"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -124,7 +125,7 @@
             android:paddingRight="16dp"
             android:paddingTop="16dp"
             style="@style/Widget.AppCompat.Button.Borderless"
-            android:text="@string/btn_ver_receita"/>
+            android:text="@string/botao_ver_receita"/>
 
     </LinearLayout>
     <LinearLayout
@@ -146,7 +147,7 @@
             android:paddingRight="16dp"
             android:paddingTop="16dp"
             android:textAppearance="?android:textAppearanceLarge"
-            android:text="@string/receita_de_sorvete_titulo"/>
+            android:text="@string/receita_sorvete_titulo"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -154,7 +155,7 @@
             android:paddingRight="16dp"
             android:paddingTop="16dp"
             android:textAppearance="?android:textAppearanceMedium"
-            android:text="@string/receita_de_sorvete_desc"/>
+            android:text="@string/receita_sorvete_desc"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -162,7 +163,7 @@
             android:paddingRight="16dp"
             android:paddingTop="16dp"
             style="@style/Widget.AppCompat.Button.Borderless"
-            android:text="@string/btn_ver_receita"/>
+            android:text="@string/botao_ver_receita"/>
 
     </LinearLayout>
 

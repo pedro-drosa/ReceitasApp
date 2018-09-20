@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:background="@color/colorPrimaryDark"
         android:textAppearance="?android:textAppearanceLargeInverse"
-        android:text="@string/receita_de_bolo_titulo"
+        android:text="@string/receita_bolo_titulo"
         android:padding="16dp"/>
     <TextView
         android:layout_width="match_parent"
